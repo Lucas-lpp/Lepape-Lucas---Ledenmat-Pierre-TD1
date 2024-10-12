@@ -27,6 +27,10 @@ Pour accéder au wiki, vous pouvez simplement visiter en cliquant sur le lien su
 
 [Lien vers le projet](https://github.com/Lucas-lpp/Lepape-Lucas---Ledenmat-Pierre-TD1/wiki)
 
+## Licence
+
+Ce projet est sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), ce qui signifie que vous êtes libre de partager, remixer, adapter et construire à partir de ce travail, même à des fins commerciales, tant que vous créditez l'auteur original.
+
 ## Crédit
 
 - Auteurs principaux : Lepape Lucas et Ledenmat Pierre
