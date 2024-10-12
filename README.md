@@ -5,12 +5,13 @@ Ce projet de 4 pages wiki se concentre sur la New Wave du rap francophone ayant 
 ## Contenu du Wiki
 
 1. Introduction à la New Wave
+   
    Cette page présente ce qu'est la New Wave francophone. Elle définit le terme, explique les éléments la caractérisant, et met en lumière       les particularités qui la distinguent d'autres courants de rap.
-2. Les racines et influences
+3. Les racines et influences
    Cette page explore les courants de rap qui ont précédé et influencé l'émergence de la New Wave, en particulier des sous-genres tels que le    cloud rap, le trap et les mouvements underground.
-3. Artiste de la New Wave
+4. Artiste de la New Wave
    Cette est une présentation des principaux artistes de la New Wave du rap francophone, incluant So La Lune, NeS, La Fève, Yvnnis, Zamdane, et d'autres. Chaque artiste est décrit à travers son style musical, son parcours et ses contributions à la scène.
-4. Impact et ouvertures futures
+5. Impact et ouvertures futures
    Cette page discute de l'impact de la New Wave sur le rap actuel et les ouvertures qu'elle propose pour le futur du genre. Les       
    collaborations internationales, les nouvelles directions artistiques et l'influence sur la jeune génération d'auditeurs y sont abordées.
 
