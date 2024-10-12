@@ -24,7 +24,7 @@ Ce projet de 4 pages wiki se concentre sur la New Wave du rap francophone ayant 
 ## Accès
 
 Pour accéder au wiki, vous pouvez simplement visiter en cliquant sur le lien suivant:
-[https://github.com/Lucas-lpp/Lepape-Lucas---Ledenmat-Pierre-TD1/wiki](#)
+[Lien vers le projet](https://github.com/Lucas-lpp/Lepape-Lucas---Ledenmat-Pierre-TD1/wiki)
 
 ## Crédit
 
