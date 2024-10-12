@@ -17,3 +17,4 @@ Pour accéder au wiki, vous pouvez simplement visiter en cliquant sur le lien su
 ## Crédit
 
 - Auteurs principaux : Lepape Lucas et Ledenmat Pierre
+- Artiste référencés dans le projet : Ziak, Freeze Corleone, Laylow, Zamdane, So La Lune, Luther, NeS
